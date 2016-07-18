@@ -37,11 +37,11 @@ else
     % usando o método indireto
     Y = random('gam',N,N,[M(1) M(2)]);
     % corrigindo retorno da função gamrnd;
-    %Y = Y.*(1/N^2);
+    Y = Y.*(1/N^2);
     
     X = random('gam',-alfa,gama,[M(1) M(2)]);
     % corrigindo retorno da função gamrnd;
-    %X = X.*(1/gama^2);
+    X = X.*(1/gama^2);
     
     Z = sqrt(Y./X);
     
