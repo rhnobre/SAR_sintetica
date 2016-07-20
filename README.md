@@ -15,7 +15,7 @@ If you have any questions about the code, or have found it useful, don't hesitat
 The code and all files within this folder is supplied "as-is". You are allowed to make copies of it and modify it to your wishes as long as you leave a note in your code (or other documentation) about its original author.
 
 # Code
-The Simula_SAR_GA0.m file shows an example of generation of synthetic SAR imaging using Matlab, while Simula_SAR_GA0.r file is the corresponding version of that file to the R software.
+The Simula_SAR_GA0.m file shows an example of generation of synthetic SAR imaging using Matlab, while Simula_SAR_GA0.R file is the corresponding version of that file to the R software.
 
 
 
