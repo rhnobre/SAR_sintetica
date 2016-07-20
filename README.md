@@ -1,9 +1,11 @@
-# SAR_sintetica
-Conjunto de funções para geração de imagens SAR sintéticas, em amplitude, seguindo a distribuição GA0, utilizando software R ou Matlab. Elas propiciam a geração de imagens sintéticas utilizando o método de geração direto e indireto. O método indireto tem como vantagem ser 10x mais rápido. As funções também trazem um ajuste na geração pelo método indireto usando o Matlab.
-Estas funções fazem parte do artigo "Insights sobre simulações de imagem SAR modeladas pela GA0". 
-
 # Introduction
 The code in this folder is a synthetic aperture radar (SAR) simulator. It was written for the paper "Insights sobre simulações de imagem SAR modeladas pela GA0" of journal "IEEE Latin American Transactions" and serves for the purpose of simulating SAR images modeled by GA0.
+
+It is available a set of functions for generation of synthetic SAR images using R or Matlab software.
+
+As discussed in the article, these functions provide the generation of synthetic SAR images using the method of direct and indirect generation, being the indirect method 10x faster than direct.
+
+The codes in Matlab also bring an adjustment in generation by the method indirect , avoiding the problem discussed in the paper.
 
 # Contact
 You may contact me (Ricardo Holanda Nobre) at rhnobre@gmail.com
